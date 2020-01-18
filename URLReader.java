@@ -21,8 +21,7 @@ public class URLReader {
 			System.out.println(line);
 			
 		}
-		in.close();
-		
+		in.close();		
 		//Get Git Hub Downloads of XR3Player
 		//Arrays.stream(responseSB.toString()).skip(1).map(l -> l.split(",")[0]).forEach(l -> System.out.println(l));
 		
